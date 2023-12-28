@@ -1,0 +1,12 @@
+# pip install -r requirements.txt
+# pip show library
+# pip freeze
+# pip list
+# python -V 3.11.5
+
+jupyterlab==4.0.9
+pandas==2.1.3
+ydata-profiling==4.6.3
+scikit-learn==1.3.2
+matplotlib==3.8.2
+seaborn==0.12.2
